@@ -36,9 +36,6 @@ elm reactor
 ```
 Then open the `src/Main.elm` file in your browser.
 
-
-Then open the `src/Main.elm` file in your browser.
-
 ## Project Structure
 
 The project structure is as follows:
