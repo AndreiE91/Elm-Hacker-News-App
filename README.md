@@ -33,9 +33,8 @@ To start the application, run:
 
 ```sh
 elm reactor
-
-Then open the `src/Main.elm` file in your browser.
 ```
+Then open the `src/Main.elm` file in your browser.
 
 
 Then open the `src/Main.elm` file in your browser.
